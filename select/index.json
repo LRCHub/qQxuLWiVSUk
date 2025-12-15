@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "いけないfool logic",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2025-12-15T08:03:34.644679Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いけないfool logic",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/01_いけないfool_logic_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いけないfool logic",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_いけないfool_logic_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
